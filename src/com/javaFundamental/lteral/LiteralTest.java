@@ -7,5 +7,6 @@ public class LiteralTest {
         int myNumber=30;
         System.out.println(name);
         System.out.println(myNumber);
+
     }
 }
