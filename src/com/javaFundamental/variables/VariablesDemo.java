@@ -19,6 +19,8 @@ public class VariablesDemo {
         System.out.println(variablesDemo.name);
         System.out.println(variablesDemo.digit);
         System.out.println(variablesDemo.x+" "+variablesDemo.y+" "+variablesDemo.z);
-
+        int x, y, z;
+        x = y = z = 50;
+        System.out.println(x + y + z);
     }
 }
