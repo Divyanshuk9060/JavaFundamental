@@ -7,6 +7,8 @@ public class VariablesDemo {
     char alphabets='A';
     String name="Divyanshu";
     short digit=5;
+    //Declaring many variable in same line with values
+    int x = 5, y = 6, z = 50;
 
     public static void main(String[] args) {
         VariablesDemo variablesDemo= new VariablesDemo();
@@ -16,6 +18,7 @@ public class VariablesDemo {
         System.out.println(variablesDemo.alphabets);
         System.out.println(variablesDemo.name);
         System.out.println(variablesDemo.digit);
+        System.out.println(variablesDemo.x+" "+variablesDemo.y+" "+variablesDemo.z);
 
     }
 }
