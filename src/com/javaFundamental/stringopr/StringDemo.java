@@ -1,4 +1,4 @@
-package com.javaFundamental;
+package com.javaFundamental.stringopr;
 
 public class StringDemo {
     public static void main(String[] args) {
