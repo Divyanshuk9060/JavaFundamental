@@ -9,3 +9,4 @@ public class LiteralTest {
         System.out.println(myNumber);
     }
 }
+
